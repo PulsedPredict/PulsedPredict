@@ -1,16 +1,13 @@
-## Hi there 👋
+# PulsedPredict
 
-<!--
-**PulsedPredict/PulsedPredict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Independent AI probability estimates for prediction markets.**
 
-Here are some ideas to get you started:
+PulsedPredict is a free iPhone app from Pulsed LLC. Its PulsedPrism™ engine synthesizes multiple AI models to produce probability estimates that are independent of market forecasts, so you can compare the two side by side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Download on the App Store](https://apps.apple.com/app/id6670146442)
+
+Website: https://pulsedpredict.ai
+
+PulsedPredict provides analysis only. It is not investment, betting, or financial advice.
+
+© 2026 Pulsed LLC
